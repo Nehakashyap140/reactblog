@@ -1,0 +1,43 @@
+.heading>h1{
+    font-size: 35px;
+    color:rgb(43, 39, 39);
+
+}
+.container1>p{
+    font-size: 25px;   
+    color: black;
+
+}
+.container1>img{
+    height: 500px;
+    width: 650px;
+    padding-left: 100px;
+}
+.container2>p{
+    font-size: 25px;
+
+}
+.container3>p{
+    font-size: 25px;
+}
+.container4>p{
+    font-size: 25px;
+}
+.heading>h1{
+   font-size: 35px;
+
+}
+.heading2{
+
+    flex-direction: column;
+    padding-top: 90px;
+  
+}
+.image2{
+    flex-direction: column;
+    padding-top: 400px;
+}
+.whole{
+    display:flex;
+    background-color: rgb(241, 248, 241);
+}
